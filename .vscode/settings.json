@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": false,
+  "editor.wordWrap": "bounded",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
